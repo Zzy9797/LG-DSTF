@@ -1,5 +1,5 @@
 # LG-DSTF
-* "[Label-Guided Dynamic Spatial-Temporal Fusion for Video-Based Facial Expression Recognition]"*
+Label-Guided Dynamic Spatial-Temporal Fusion for Video-Based Facial Expression Recognition
 
 ## Requirements
 - Python >= 3.6
