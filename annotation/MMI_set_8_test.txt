@@ -1,0 +1,17 @@
+/home/user/dataset/MMI/aligned/S032-003-2 48 4
+/home/user/dataset/MMI/aligned/S034-002-2 89 4
+/home/user/dataset/MMI/aligned/S034-005-5 149 1
+/home/user/dataset/MMI/aligned/S028-002-3 49 3
+/home/user/dataset/MMI/aligned/S028-001-3 87 3
+/home/user/dataset/MMI/aligned/S032-006-3 64 3
+/home/user/dataset/MMI/aligned/S034-003-3 140 3
+/home/user/dataset/MMI/aligned/S034-007-6 49 2
+/home/user/dataset/MMI/aligned/S028-004-6 101 2
+/home/user/dataset/MMI/aligned/S032-011-6 51 2
+/home/user/dataset/MMI/aligned/S028-003-6 56 2
+/home/user/dataset/MMI/aligned/S032-010-6 59 2
+/home/user/dataset/MMI/aligned/S034-001-1 132 5
+/home/user/dataset/MMI/aligned/S032-002-1 61 5
+/home/user/dataset/MMI/aligned/S032-001-1 73 5
+/home/user/dataset/MMI/aligned/S032-008-4 76 0
+/home/user/dataset/MMI/aligned/S034-004-4 132 0
