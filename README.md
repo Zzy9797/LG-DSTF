@@ -17,7 +17,6 @@ Label-Guided Dynamic Spatial-Temporal Fusion for Video-Based Facial Expression R
 
 - Step 4: run ```python train.py ```
 
-- Step 5: Pre-trained model for AFEW can be download [here](https://drive.google.com/file/d/1neCBhAKCQ_c0Er4z2k7B1CbyVHlFrfCA/view?usp=sharing).
 
 **Acknowledgments**
 
